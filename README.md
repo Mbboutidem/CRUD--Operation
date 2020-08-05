@@ -47,7 +47,7 @@ In this CRUD app, user will be able to perform the following:
 ## Sample Outputs
 ![](img/img1.JPG)
 
-![](imgs/img2.JPG)
+![](img/img2.JPG)
 
 
 
